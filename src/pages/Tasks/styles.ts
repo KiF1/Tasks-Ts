@@ -18,6 +18,7 @@ gap: 1rem;
 
 @media (max-width: 768px){
     width: 95%;
+    height: 95vh;
     padding: 3rem 1rem;
 }
 `
