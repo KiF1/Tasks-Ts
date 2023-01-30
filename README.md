@@ -1,4 +1,4 @@
-# Ignite-Timer   
+# Tasks Ts
 
 ## Funcionalidades:
 - Adicionar | Excluir | Pesquisar e Editar tasks
