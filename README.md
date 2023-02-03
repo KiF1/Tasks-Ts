@@ -13,7 +13,7 @@
 
 
 ## Apresentação do Pojeto:
-
+<img src="./tasks.gif">
 
 
 ## Gostou do meu projeto? :D Entre em contato comigo! 
